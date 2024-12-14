@@ -1,3 +1,0 @@
-      该文件是分卷压缩，请在下载后确保各文件在根目录下，再打开.zip文件进行解压（否则打不开）
-
-      The file is compressed in separate volumes, please make sure that each file is in the root directory after downloading, and then open the .zip file to extract it (otherwise it will not be opened)
