@@ -22,10 +22,10 @@ Spark操作系统（模拟）
 (以下内容转载自https://spark-home.pages.dev）<br>
 
 手机版：<br>
-跳转到https://spark-home.pages.dev/download  网址，点击下载按钮，下载apk安装包：
+跳转到https://spark-home.pages.dev/download  网址，点击下载按钮，下载apk安装包：<br>
 ![image](https://github.com/Chai-Bing-Kun/SP-HTML/blob/main/img/apk%E4%B8%8B%E8%BD%BD%E4%BB%8B%E7%BB%8D.png)<br>
 Windows版：
-跳转到https://spark-home.pages.dev/download  网址，点击下载按钮，下载Zip文件
+跳转到https://spark-home.pages.dev/download  网址，点击下载按钮，下载Zip文件<br>
 ![image](https://github.com/Chai-Bing-Kun/SP-HTML/blob/main/img/Windows%E4%B8%8B%E8%BD%BD%E4%BB%8B%E7%BB%8D.png)<br>
 解压文件<br>
 打开命令行终端运行：
