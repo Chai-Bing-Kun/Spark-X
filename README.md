@@ -29,11 +29,15 @@ Windows版：
 ![image](https://github.com/Chai-Bing-Kun/SP-HTML/blob/main/img/Windows%E4%B8%8B%E8%BD%BD%E4%BB%8B%E7%BB%8D.png)
 解压文件
 打开命令行终端运行：
+
 ···
 (这里替换成解压后的位置)\spark\spark.exe
 ···
+
 例如：
+
 ···
 D:\Spark 5\Windows\spark\spark.exe
 ···
+
 (Linux和Mac文件可参阅解压后的txt文件进行操作)
