@@ -30,14 +30,14 @@ Windows版：
 解压文件
 打开命令行终端运行：
 
-···
+```
 (这里替换成解压后的位置)\spark\spark.exe
-···
+```
 
 例如：
 
-···
+```
 D:\Spark 5\Windows\spark\spark.exe
-···
+```
 
 (Linux和Mac文件可参阅解压后的txt文件进行操作)
